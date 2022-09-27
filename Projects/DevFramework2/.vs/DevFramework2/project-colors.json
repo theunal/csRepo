@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32a2cb0f-626b-45f6-b8b7-fc1da239ca3d": {
+      "ProjectGuid": "32a2cb0f-626b-45f6-b8b7-fc1da239ca3d",
+      "DisplayName": "DevFramework.Core",
+      "ColorIndex": 0
+    },
+    "29d14b0f-25ed-4c2b-983b-0aeb3fafa506": {
+      "ProjectGuid": "29d14b0f-25ed-4c2b-983b-0aeb3fafa506",
+      "DisplayName": "DevFramework.Entities",
+      "ColorIndex": 1
+    },
+    "f6fa1468-2342-4fa3-970f-c15f88f42163": {
+      "ProjectGuid": "f6fa1468-2342-4fa3-970f-c15f88f42163",
+      "DisplayName": "DevFramework.DataAccess",
+      "ColorIndex": 2
+    },
+    "a1884ae4-3c92-4e4d-bd28-cf53c112a9d1": {
+      "ProjectGuid": "a1884ae4-3c92-4e4d-bd28-cf53c112a9d1",
+      "DisplayName": "DevFramework.Business",
+      "ColorIndex": 3
+    },
+    "08c2ef24-4010-4ab5-9623-bbcad9bd28fe": {
+      "ProjectGuid": "08c2ef24-4010-4ab5-9623-bbcad9bd28fe",
+      "DisplayName": "DevFramework.MvcWebUI",
+      "ColorIndex": 4
+    },
+    "677e7e03-75ad-4a30-af22-814f82b38e83": {
+      "ProjectGuid": "677e7e03-75ad-4a30-af22-814f82b38e83",
+      "DisplayName": "DevFramework.DataAccess.Tests",
+      "ColorIndex": 5
+    },
+    "1088e2b0-8e9d-4364-92df-54fb9305bd1f": {
+      "ProjectGuid": "1088e2b0-8e9d-4364-92df-54fb9305bd1f",
+      "DisplayName": "DevFramework.Business.Tests",
+      "ColorIndex": 6
+    },
+    "f2b0a16b-c563-4686-9031-1d7dca97a44c": {
+      "ProjectGuid": "f2b0a16b-c563-4686-9031-1d7dca97a44c",
+      "DisplayName": "DevFramework.WebApi",
+      "ColorIndex": 7
+    },
+    "72792d16-4700-4e2a-af32-976aeb38d905": {
+      "ProjectGuid": "72792d16-4700-4e2a-af32-976aeb38d905",
+      "DisplayName": "DevFramework.WcfService",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 9
+}

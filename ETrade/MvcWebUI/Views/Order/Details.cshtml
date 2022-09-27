@@ -1,0 +1,148 @@
+﻿@using MvcWebUI.Models
+@model OrderDetailsModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="container pb-5 mt-3">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 style="text-align:center">Sipariş Detayları</h2>
+            <hr class="mb-3" />
+
+            @if (TempData["mesaj"] != null)
+            {
+                <div class="alert alert-success">
+                    @TempData["mesaj"]
+                </div>
+            }
+
+        <dl class="row">
+
+            <dt class="col-sm-3">Sipariş Durumu</dt>
+            <dd class="col-sm-9">
+                <div class="row" style="margin-left:0px;">
+                    @using (Html.BeginForm("UpdateOrderState", "Order", FormMethod.Post))
+                    {
+                        @Html.HiddenFor(p => p.OrderId)
+
+                        <div class="row">
+                            <div class="col-sm-6">
+                                @Html.EnumDropDownListFor(p => p.OrderState, new { @class = "form-control" })
+
+                            </div>
+                            <div class="col-sm-0">
+                                <button class="btn btn-primary" type="submit">Durumu değiştir</button>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+
+
+                <!-- if (Convert.ToInt32(Model.orderState) == 0)
+        {
+            <span style="color:orangered;">Model.orderState</span>
+        }
+        else if (Convert.ToInt32(Model.orderState) == 1)
+        {
+            <span style="color: orange;">Model.orderState</span>
+        }
+        else if (Convert.ToInt32(Model.orderState) == 2)
+        {
+            <span style="color: deepskyblue;">Model.orderState</span>
+        }
+        else
+        {
+            <span style="color:green;">Model.orderState</span>
+        } -->
+
+            </dd>
+
+            <dt class="col-sm-3">Sipariş Tarihi</dt>
+            <dd class="col-sm-9">@Model.OrderDate</dd>
+
+            <dt class="col-sm-3">Sipariş Numarası</dt>
+            <dd class="col-sm-9">@Model.OrderNumber</dd>
+
+            <dt class="col-sm-3">Müşteri Adı</dt>
+            <dd class="col-sm-9">@Model.UserName</dd>
+
+
+            <dt class="col-sm-3">Adres Tanımı</dt>
+            <dd class="col-sm-9">@Model.AdresTanimi</dd>
+
+            <dt class="col-sm-3">Adres</dt>
+            <dd class="col-sm-9">
+                @Model.Adres -  @Model.Sehir - @Model.Semt - @Model.Mahalle - @Model.PostaKodu
+                <hr />
+            </dd>
+
+
+            <dt class="col-sm-3">Sipariş Edilen Ürünler</dt>
+            <dd class="col-sm-9">
+
+                <table class="table table-bordered table-striped">
+
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th style="text-align:center;">Ürün Adı</th>
+                            <th style="text-align:center;">Adet</th>
+                            <th style="text-align:center;">Ürün Fiyatı</th>
+
+                        </tr>
+                    </thead>
+
+
+
+                    <tbody>
+                        @foreach (var item in Model.Orderlines)
+                        {
+                            <tr>
+                                <td style="text-align:center;">
+                                    <img src="~/ETicaret/img/@item.Image" width="45" />
+                                </td>
+
+                                <td style="text-align:center;">
+                                    <a target="_blank" href="/Home/Details/@item.ProductId">
+                                        @item.ProductName
+                                    </a>
+
+                                </td>
+
+                                <td style="text-align:center;">@item.Quantity</td>
+
+                                <td style="text-align:center;">@item.Price.ToString("c")</td>
+
+                            </tr>
+
+                        }
+                    </tbody>
+                    <tfoot>
+                    <td colspan="3"></td>
+                    <td style="text-align:center;>@Model.Total.ToString("c") ></td>
+                    </tfoot>
+
+
+
+                </table>
+
+
+
+            </dd>
+
+
+
+        </dl>
+
+
+
+        </div>
+    </div>
+</div>
+
+

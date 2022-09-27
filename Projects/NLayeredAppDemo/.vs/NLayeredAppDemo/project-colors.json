@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1649c56e-90a2-40f5-9c1f-0463d55d9732": {
+      "ProjectGuid": "1649c56e-90a2-40f5-9c1f-0463d55d9732",
+      "DisplayName": "Northwind.Entities",
+      "ColorIndex": 0
+    },
+    "bad075bd-45bb-4ffa-95fc-01d17d7bbed7": {
+      "ProjectGuid": "bad075bd-45bb-4ffa-95fc-01d17d7bbed7",
+      "DisplayName": "Northwind.DataAccess",
+      "ColorIndex": 1
+    },
+    "410e487e-a0d2-434c-b14d-06651f4090f4": {
+      "ProjectGuid": "410e487e-a0d2-434c-b14d-06651f4090f4",
+      "DisplayName": "Northwind.Business",
+      "ColorIndex": 2
+    },
+    "e467f901-7375-47b0-9ff6-60a75d490086": {
+      "ProjectGuid": "e467f901-7375-47b0-9ff6-60a75d490086",
+      "DisplayName": "Northwind.WebFormsUI",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

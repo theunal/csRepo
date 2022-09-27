@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9161ed0c-6667-4351-9910-924eb6cb19a8": {
+      "ProjectGuid": "9161ed0c-6667-4351-9910-924eb6cb19a8",
+      "DisplayName": "Entities",
+      "ColorIndex": 0
+    },
+    "627a99a9-8766-4d9d-932b-92cb53fa9a10": {
+      "ProjectGuid": "627a99a9-8766-4d9d-932b-92cb53fa9a10",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "39bb8207-b8da-4ae0-97d5-4a7e683f3a6f": {
+      "ProjectGuid": "39bb8207-b8da-4ae0-97d5-4a7e683f3a6f",
+      "DisplayName": "Business",
+      "ColorIndex": 2
+    },
+    "85ddc4ea-8279-4092-a0b0-d39a3522676d": {
+      "ProjectGuid": "85ddc4ea-8279-4092-a0b0-d39a3522676d",
+      "DisplayName": "UI",
+      "ColorIndex": 3
+    },
+    "71804513-856b-4128-ad57-f76c30482ae3": {
+      "ProjectGuid": "71804513-856b-4128-ad57-f76c30482ae3",
+      "DisplayName": "Business",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

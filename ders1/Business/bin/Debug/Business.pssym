@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="41" PostSharpLinesOfCode="0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[Core]Core.Aspect.Postsharp.LogAspects.LogAspect">
+    <Instance Declaration="#2=M:[Business]Business.Concrete.ProductManager::GetAll()" Id="e734f9d36d803ea4">
+      <Target>
+        <JoinPoint Advising="#1" Description="#3=Wrapped by advice(s) OnEntry" Ordinal="0" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#2" Id="e734f9d30b8cfb7f">
+      <Target>
+        <JoinPoint Advising="#1" Description="#3" />
+      </Target>
+    </Instance>
+  </Class>
+  <Class Class="#4=T:[Core]Core.Aspect.Postsharp.ValidationAspect.FluentValiAspect">
+    <Instance Declaration="#5=M:[Business]Business.Concrete.ProductManager::Add(Entities.Concrete.Product)" Id="e734f9d3c8488a98">
+      <Target>
+        <JoinPoint Advising="#4" Description="#3" Ordinal="2" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#6=M:[Business]Business.Concrete.ProductManager::Update(Entities.Concrete.Product)" Id="e734f9d369757299">
+      <Target>
+        <JoinPoint Advising="#4" Description="#3" Ordinal="3" />
+      </Target>
+    </Instance>
+  </Class>
+  <Class Class="#7=T:[Core]Core.Aspect.Postsharp.TransactionAspect.TransactionScopeAspect">
+    <Instance Declaration="#8=M:[Business]Business.Concrete.ProductManager::TransactionalOperation(Entities.Concrete.Product, Entities.Concrete.Product)" Id="e734f9d3578ff482">
+      <Target>
+        <JoinPoint Advising="#7" Description="#9=Wrapped by advice(s) OnEntry, OnSuccess, OnExit" Ordinal="4" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#10=M:[Core]Core.Aspect.Postsharp.LogAspects.LogAspect::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#11=2" Description="#12=PostSharp estimates that 2 line(s) of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+  <Annotation Target="#13=M:[Core]Core.Aspect.Postsharp.ValidationAspect.FluentValiAspect::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#11" Description="#12" />
+  <Annotation Target="#14=M:[Core]Core.Aspect.Postsharp.TransactionAspect.TransactionScopeAspect::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#11" Description="#12" />
+  <Annotation Target="#15=M:[Core]Core.Aspect.Postsharp.TransactionAspect.TransactionScopeAspect::OnSuccess(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#11" Description="#12" />
+  <Annotation Target="#16=M:[Core]Core.Aspect.Postsharp.TransactionAspect.TransactionScopeAspect::OnExit(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#11" Description="#12" />
+</Symbols>

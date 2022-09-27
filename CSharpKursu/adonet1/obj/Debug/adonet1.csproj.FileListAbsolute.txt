@@ -1,0 +1,11 @@
+D:\PROJELER\C#\CSharpKursu\adonet1\bin\Debug\adonet1.exe.config
+D:\PROJELER\C#\CSharpKursu\adonet1\bin\Debug\adonet1.exe
+D:\PROJELER\C#\CSharpKursu\adonet1\bin\Debug\adonet1.pdb
+D:\PROJELER\C#\CSharpKursu\adonet1\obj\Debug\adonet1.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\adonet1\obj\Debug\adonet1.Form1.resources
+D:\PROJELER\C#\CSharpKursu\adonet1\obj\Debug\adonet1.Properties.Resources.resources
+D:\PROJELER\C#\CSharpKursu\adonet1\obj\Debug\adonet1.csproj.GenerateResource.cache
+D:\PROJELER\C#\CSharpKursu\adonet1\obj\Debug\adonet1.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\adonet1\obj\Debug\adonet1.exe
+D:\PROJELER\C#\CSharpKursu\adonet1\obj\Debug\adonet1.pdb
+D:\PROJELER\C#\CSharpKursu\adonet1\obj\Debug\adonet1.csproj.AssemblyReference.cache

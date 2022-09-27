@@ -1,0 +1,8 @@
+D:\PROJELER\C#\CSharpKursu\interfaces\bin\Debug\interfaces.exe.config
+D:\PROJELER\C#\CSharpKursu\interfaces\bin\Debug\interfaces.exe
+D:\PROJELER\C#\CSharpKursu\interfaces\bin\Debug\interfaces.pdb
+D:\PROJELER\C#\CSharpKursu\interfaces\obj\Debug\interfaces.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\interfaces\obj\Debug\interfaces.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\interfaces\obj\Debug\interfaces.exe
+D:\PROJELER\C#\CSharpKursu\interfaces\obj\Debug\interfaces.pdb
+D:\PROJELER\C#\CSharpKursu\interfaces\obj\Debug\interfaces.csproj.AssemblyReference.cache

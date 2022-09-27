@@ -1,0 +1,119 @@
+﻿@using MvcWebUI.Models
+@model OrderDetailsModel
+
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<div class="container pb-5 mt-3">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 style="text-align:center">Sipariş Detayları</h2>
+            <hr class="mb-3" />
+
+
+            <dl class="row">
+
+                <dt class="col-sm-3">Sipariş Durumu</dt>
+                <dd class="col-sm-9">
+                    @if (Convert.ToInt32(Model.OrderState) == 0)
+                    {
+                        <span style="color:orangered;">@Model.OrderState</span>
+                    }
+                    else if (Convert.ToInt32(Model.OrderState) == 1)
+                    {
+                        <span style="color: orange;">@Model.OrderState</span>
+                    }
+                    else if (Convert.ToInt32(Model.OrderState) == 2)
+                    {
+                        <span style="color: deepskyblue;">@Model.OrderState</span>
+                    }
+                    else
+                    {
+                        <span style="color:green;">@Model.OrderState</span>
+                    }
+                </dd>
+
+                <dt class="col-sm-3">Sipariş Tarihi</dt>
+                <dd class="col-sm-9">@Model.OrderDate</dd>
+
+                <dt class="col-sm-3">Sipariş Numarası</dt>
+                <dd class="col-sm-9">@Model.OrderNumber</dd>
+
+                <dt class="col-sm-3">Toplam</dt>
+                <dd class="col-sm-9">@Model.Total.ToString("c")</dd>
+
+                <dt class="col-sm-3">Adres Tanımı</dt>
+                <dd class="col-sm-9">@Model.AdresTanimi</dd>
+
+                <dt class="col-sm-3">Adres</dt>
+                <dd class="col-sm-9">
+                    @Model.Adres -  @Model.Sehir - @Model.Semt - @Model.Mahalle - @Model.PostaKodu
+                    <hr />
+                </dd>
+
+
+                <dt class="col-sm-3">Sipariş Edilen Ürünler</dt>
+                <dd class="col-sm-9">
+
+                    <table class="table table-bordered table-striped">
+
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th style="text-align:center;">Ürün Adı</th>
+                                <th style="text-align:center;">Adet</th>
+                                <th style="text-align:center;">Ürün Fiyatı</th>
+                            </tr>
+                        </thead>
+
+
+
+                        <tbody>
+                            @foreach (var item in Model.Orderlines)
+                            {
+                                <tr>
+                                    <td style="text-align:center;">
+                                        <img src="~/ETicaret/img/@item.Image" width="70" />
+                                    </td>
+
+                                    <td style="text-align:center;">
+                                        <a target="_blank" href="/Home/Details/@item.ProductId">
+                                            @item.ProductName
+                                        </a>
+
+                                    </td>
+
+                                    <td style="text-align:center;">@item.Quantity</td>
+
+                                    <td style="text-align:center;">@item.Price.ToString("c")</td>
+
+                                </tr>
+
+                            }
+                        </tbody>
+
+
+
+
+
+
+
+                    </table>
+
+
+
+                </dd>
+
+
+
+            </dl>
+
+
+
+        </div>
+    </div>
+</div>
+

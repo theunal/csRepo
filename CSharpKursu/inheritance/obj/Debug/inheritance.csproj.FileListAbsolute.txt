@@ -1,0 +1,7 @@
+D:\PROJELER\C#\CSharpKursu\inheritance\bin\Debug\inheritance.exe.config
+D:\PROJELER\C#\CSharpKursu\inheritance\bin\Debug\inheritance.exe
+D:\PROJELER\C#\CSharpKursu\inheritance\bin\Debug\inheritance.pdb
+D:\PROJELER\C#\CSharpKursu\inheritance\obj\Debug\inheritance.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\inheritance\obj\Debug\inheritance.exe
+D:\PROJELER\C#\CSharpKursu\inheritance\obj\Debug\inheritance.pdb

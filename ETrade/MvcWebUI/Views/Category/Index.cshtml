@@ -1,0 +1,43 @@
+﻿@model IEnumerable<MvcWebUI.Entity.Category>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container pb-5 mt-5">
+    <h2 style="text-align:center;">Kategori Listesi</h2>
+    <hr />
+
+    <table class="table table-bordered table-striped">
+        <tr>
+            <th style="text-align:center;">
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </th>
+            <th style="text-align:center;">
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th style="text-align:center;">İşlemler</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="text-align:center;">
+                    @Html.DisplayFor(modelItem => item.CategoryName)
+                </td>
+                <td style="text-align:center;">
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td style="text-align:center;">
+                    @Html.ActionLink("Güncelle", "Edit", new { id = item.Id }, new { @class = "btn btn-primary btn-sm" })
+                    @Html.ActionLink("Sil", "Delete", new { id = item.Id }, new { @class = "btn btn-danger btn-sm" })
+                </td>
+            </tr>
+        }
+
+    </table>
+    <p>
+        @Html.ActionLink("Yeni Kategori", "Create", null, new { @class = "btn btn-dark" })
+    </p>
+</div>

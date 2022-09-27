@@ -1,0 +1,27 @@
+﻿
+
+@model MvcWebUI.Models.ProductListViewModel
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+
+        @foreach (var product in Model.Products)
+            {
+                @product.ProductName  
+                <br />
+            }
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+D:\PROJELER\C#\Projects\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+D:\PROJELER\C#\Projects\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\Projects\Project1\obj\Debug\Project1.Form1.resources
+D:\PROJELER\C#\Projects\Project1\obj\Debug\Project1.Properties.Resources.resources
+D:\PROJELER\C#\Projects\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+D:\PROJELER\C#\Projects\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\Projects\Project1\bin\Debug\Project1.exe.config
+D:\PROJELER\C#\Projects\Project1\bin\Debug\Project1.exe
+D:\PROJELER\C#\Projects\Project1\bin\Debug\Project1.pdb
+D:\PROJELER\C#\Projects\Project1\bin\Debug\EntityFramework.dll
+D:\PROJELER\C#\Projects\Project1\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJELER\C#\Projects\Project1\bin\Debug\EntityFramework.xml
+D:\PROJELER\C#\Projects\Project1\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJELER\C#\Projects\Project1\obj\Debug\Project1.csproj.CopyComplete
+D:\PROJELER\C#\Projects\Project1\obj\Debug\Project1.exe
+D:\PROJELER\C#\Projects\Project1\obj\Debug\Project1.pdb

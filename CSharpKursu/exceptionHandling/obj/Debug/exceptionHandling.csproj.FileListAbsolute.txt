@@ -1,0 +1,8 @@
+D:\PROJELER\C#\CSharpKursu\exceptionHandling\bin\Debug\exceptionHandling.exe.config
+D:\PROJELER\C#\CSharpKursu\exceptionHandling\bin\Debug\exceptionHandling.exe
+D:\PROJELER\C#\CSharpKursu\exceptionHandling\bin\Debug\exceptionHandling.pdb
+D:\PROJELER\C#\CSharpKursu\exceptionHandling\obj\Debug\exceptionHandling.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\exceptionHandling\obj\Debug\exceptionHandling.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\exceptionHandling\obj\Debug\exceptionHandling.exe
+D:\PROJELER\C#\CSharpKursu\exceptionHandling\obj\Debug\exceptionHandling.pdb
+D:\PROJELER\C#\CSharpKursu\exceptionHandling\obj\Debug\exceptionHandling.csproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\PROJELER\C#\CSharpKursu\events\bin\Debug\events.exe.config
+D:\PROJELER\C#\CSharpKursu\events\bin\Debug\events.exe
+D:\PROJELER\C#\CSharpKursu\events\bin\Debug\events.pdb
+D:\PROJELER\C#\CSharpKursu\events\obj\Debug\events.csproj.AssemblyReference.cache
+D:\PROJELER\C#\CSharpKursu\events\obj\Debug\events.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\events\obj\Debug\events.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\events\obj\Debug\events.exe
+D:\PROJELER\C#\CSharpKursu\events\obj\Debug\events.pdb

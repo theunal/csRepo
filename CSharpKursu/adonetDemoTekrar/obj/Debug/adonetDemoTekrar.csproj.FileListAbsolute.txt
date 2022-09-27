@@ -1,0 +1,11 @@
+D:\PROJELER\C#\CSharpKursu\adonetDemoTekrar\obj\Debug\adonetDemoTekrar.csproj.AssemblyReference.cache
+D:\PROJELER\C#\CSharpKursu\adonetDemoTekrar\obj\Debug\adonetDemoTekrar.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\adonetDemoTekrar\obj\Debug\adonetDemoTekrar.Form1.resources
+D:\PROJELER\C#\CSharpKursu\adonetDemoTekrar\obj\Debug\adonetDemoTekrar.Properties.Resources.resources
+D:\PROJELER\C#\CSharpKursu\adonetDemoTekrar\obj\Debug\adonetDemoTekrar.csproj.GenerateResource.cache
+D:\PROJELER\C#\CSharpKursu\adonetDemoTekrar\obj\Debug\adonetDemoTekrar.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\adonetDemoTekrar\bin\Debug\adonetDemoTekrar.exe.config
+D:\PROJELER\C#\CSharpKursu\adonetDemoTekrar\bin\Debug\adonetDemoTekrar.exe
+D:\PROJELER\C#\CSharpKursu\adonetDemoTekrar\bin\Debug\adonetDemoTekrar.pdb
+D:\PROJELER\C#\CSharpKursu\adonetDemoTekrar\obj\Debug\adonetDemoTekrar.exe
+D:\PROJELER\C#\CSharpKursu\adonetDemoTekrar\obj\Debug\adonetDemoTekrar.pdb

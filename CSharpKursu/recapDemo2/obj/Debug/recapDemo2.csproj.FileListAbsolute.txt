@@ -1,0 +1,7 @@
+D:\PROJELER\C#\CSharpKursu\recapDemo2\bin\Debug\recapDemo2.exe.config
+D:\PROJELER\C#\CSharpKursu\recapDemo2\bin\Debug\recapDemo2.exe
+D:\PROJELER\C#\CSharpKursu\recapDemo2\bin\Debug\recapDemo2.pdb
+D:\PROJELER\C#\CSharpKursu\recapDemo2\obj\Debug\recapDemo2.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\recapDemo2\obj\Debug\recapDemo2.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\recapDemo2\obj\Debug\recapDemo2.exe
+D:\PROJELER\C#\CSharpKursu\recapDemo2\obj\Debug\recapDemo2.pdb

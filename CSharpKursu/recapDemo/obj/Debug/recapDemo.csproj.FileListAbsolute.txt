@@ -1,0 +1,11 @@
+D:\PROJELER\C#\CSharpKursu\recapDemo\bin\Debug\recapDemo.exe.config
+D:\PROJELER\C#\CSharpKursu\recapDemo\bin\Debug\recapDemo.exe
+D:\PROJELER\C#\CSharpKursu\recapDemo\bin\Debug\recapDemo.pdb
+D:\PROJELER\C#\CSharpKursu\recapDemo\obj\Debug\recapDemo.csproj.AssemblyReference.cache
+D:\PROJELER\C#\CSharpKursu\recapDemo\obj\Debug\recapDemo.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\recapDemo\obj\Debug\recapDemo.Form1.resources
+D:\PROJELER\C#\CSharpKursu\recapDemo\obj\Debug\recapDemo.Properties.Resources.resources
+D:\PROJELER\C#\CSharpKursu\recapDemo\obj\Debug\recapDemo.csproj.GenerateResource.cache
+D:\PROJELER\C#\CSharpKursu\recapDemo\obj\Debug\recapDemo.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\recapDemo\obj\Debug\recapDemo.exe
+D:\PROJELER\C#\CSharpKursu\recapDemo\obj\Debug\recapDemo.pdb

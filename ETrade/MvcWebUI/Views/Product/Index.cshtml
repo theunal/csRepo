@@ -1,0 +1,90 @@
+﻿@model IEnumerable<MvcWebUI.Entity.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container pb-5 mt-5">
+    <h2 style="text-align:center;">Ürünler</h2>
+    <hr />
+
+    <table class="table table-bordered table-striped">
+        <tr>
+            <th  style="text-align:center;">
+                @Html.DisplayNameFor(model => model.image)
+            </th>
+            <th style="text-align:center;">
+                @Html.DisplayNameFor(model => model.Category.CategoryName)
+            </th>
+            <th style="text-align:center;">
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th style="text-align:center;">
+                @Html.DisplayNameFor(model => model.IsApproved)
+            </th>
+            <th style="text-align:center;">
+                @Html.DisplayNameFor(model => model.IsHome)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="~/ETicaret/img/@item.image" width="70" />
+                </td>
+                <td style="text-align:center;">
+                    @Html.DisplayFor(modelItem => item.Category.CategoryName)
+                </td>
+                <td style="text-align:center;">
+                    <a href="/Home/Details/@item.Id">
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </a>
+                </td>
+                <td style="text-align:center;">
+                    @if (item.IsApproved)
+                    {
+                        <label class="badge badge-success">
+                            <i class="fa fa-check" aria-hidden="true"></i>
+                            Onaylı
+                        </label>
+                    }
+                    else
+                    {
+                        <label class="badge badge-danger">
+                            <i class="fa fa-times-circle" aria-hidden="true"></i>
+                            Onaylı değil
+                        </label>
+                    }
+                </td>
+                <td style="text-align:center;">
+                    @if (item.IsHome)
+                    {
+                        <label class="badge badge-success">
+                            <i class="fa fa-check" aria-hidden="true"></i>
+                            Ana sayfada
+                        </label>
+                    }
+                    else
+                    {
+                        <label class="badge badge-danger">
+                            <i class="fa fa-times-circle" aria-hidden="true"></i>
+                            Ana sayfada değil
+                        </label>
+
+                    }
+                </td>
+                <td style="width: 135px; text-align: center;">
+                    @Html.ActionLink("Güncelle", "Edit", new { id = item.Id }, new { @class = "btn btn-primary btn-sm" })
+                    @Html.ActionLink("Sil", "Delete", new { id = item.Id }, new { @class = "btn btn-danger btn-sm" })
+                </td>
+            </tr>
+        }
+
+    </table>
+    <p>
+        @Html.ActionLink("Yeni Ürün", "Create", null, new { @class = "btn btn-dark" })
+    </p>
+</div>

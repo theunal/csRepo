@@ -1,0 +1,7 @@
+D:\PROJELER\C#\CSharpKursu\virtualMethod\bin\Debug\virtualMethod.exe.config
+D:\PROJELER\C#\CSharpKursu\virtualMethod\bin\Debug\virtualMethod.exe
+D:\PROJELER\C#\CSharpKursu\virtualMethod\bin\Debug\virtualMethod.pdb
+D:\PROJELER\C#\CSharpKursu\virtualMethod\obj\Debug\virtualMethod.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\virtualMethod\obj\Debug\virtualMethod.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\virtualMethod\obj\Debug\virtualMethod.exe
+D:\PROJELER\C#\CSharpKursu\virtualMethod\obj\Debug\virtualMethod.pdb

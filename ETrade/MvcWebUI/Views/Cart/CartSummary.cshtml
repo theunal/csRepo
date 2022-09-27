@@ -1,0 +1,13 @@
+﻿@using MvcWebUI.Models
+@model CartModel
+
+<nav class="navbar-nav my-2 my-lg-0">
+
+        <li class="nav-item active">
+            <a class="nav-link" href="/Cart">
+                <i class="fa fa-shopping-cart"></i> (<span style="color:red;">@Model.CartLineModels.Count</span>)
+            </a>
+
+        </li>
+
+</nav>

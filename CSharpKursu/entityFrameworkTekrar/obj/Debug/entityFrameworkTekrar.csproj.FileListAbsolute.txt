@@ -1,0 +1,16 @@
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\bin\Debug\entityFrameworkTekrar.exe.config
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\bin\Debug\entityFrameworkTekrar.exe
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\bin\Debug\entityFrameworkTekrar.pdb
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\bin\Debug\EntityFramework.dll
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\bin\Debug\EntityFramework.xml
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\obj\Debug\entityFrameworkTekrar.csproj.AssemblyReference.cache
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\obj\Debug\entityFrameworkTekrar.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\obj\Debug\entityFrameworkTekrar.Form1.resources
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\obj\Debug\entityFrameworkTekrar.Properties.Resources.resources
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\obj\Debug\entityFrameworkTekrar.csproj.GenerateResource.cache
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\obj\Debug\entityFrameworkTekrar.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\obj\Debug\entityFrameworkTekrar.csproj.CopyComplete
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\obj\Debug\entityFrameworkTekrar.exe
+D:\PROJELER\C#\CSharpKursu\entityFrameworkTekrar\obj\Debug\entityFrameworkTekrar.pdb

@@ -1,0 +1,15 @@
+D:\PROJELER\C#\CSharpKursu\ders1\bin\Debug\net6.0\ders1.exe
+D:\PROJELER\C#\CSharpKursu\ders1\bin\Debug\net6.0\ders1.deps.json
+D:\PROJELER\C#\CSharpKursu\ders1\bin\Debug\net6.0\ders1.runtimeconfig.json
+D:\PROJELER\C#\CSharpKursu\ders1\bin\Debug\net6.0\ders1.dll
+D:\PROJELER\C#\CSharpKursu\ders1\bin\Debug\net6.0\ref\ders1.dll
+D:\PROJELER\C#\CSharpKursu\ders1\bin\Debug\net6.0\ders1.pdb
+D:\PROJELER\C#\CSharpKursu\ders1\obj\Debug\net6.0\ders1.csproj.AssemblyReference.cache
+D:\PROJELER\C#\CSharpKursu\ders1\obj\Debug\net6.0\ders1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJELER\C#\CSharpKursu\ders1\obj\Debug\net6.0\ders1.AssemblyInfoInputs.cache
+D:\PROJELER\C#\CSharpKursu\ders1\obj\Debug\net6.0\ders1.AssemblyInfo.cs
+D:\PROJELER\C#\CSharpKursu\ders1\obj\Debug\net6.0\ders1.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\ders1\obj\Debug\net6.0\ders1.dll
+D:\PROJELER\C#\CSharpKursu\ders1\obj\Debug\net6.0\ref\ders1.dll
+D:\PROJELER\C#\CSharpKursu\ders1\obj\Debug\net6.0\ders1.pdb
+D:\PROJELER\C#\CSharpKursu\ders1\obj\Debug\net6.0\ders1.genruntimeconfig.cache

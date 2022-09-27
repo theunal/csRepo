@@ -1,0 +1,8 @@
+D:\PROJELER\C#\CSharpKursu\dictionary\bin\Debug\dictionary.exe.config
+D:\PROJELER\C#\CSharpKursu\dictionary\bin\Debug\dictionary.exe
+D:\PROJELER\C#\CSharpKursu\dictionary\bin\Debug\dictionary.pdb
+D:\PROJELER\C#\CSharpKursu\dictionary\obj\Debug\dictionary.csproj.AssemblyReference.cache
+D:\PROJELER\C#\CSharpKursu\dictionary\obj\Debug\dictionary.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\dictionary\obj\Debug\dictionary.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\dictionary\obj\Debug\dictionary.exe
+D:\PROJELER\C#\CSharpKursu\dictionary\obj\Debug\dictionary.pdb

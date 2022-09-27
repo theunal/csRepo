@@ -1,0 +1,8 @@
+D:\PROJELER\C#\CSharpKursu\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+D:\PROJELER\C#\CSharpKursu\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\Generics\bin\Debug\Generics.exe.config
+D:\PROJELER\C#\CSharpKursu\Generics\bin\Debug\Generics.exe
+D:\PROJELER\C#\CSharpKursu\Generics\bin\Debug\Generics.pdb
+D:\PROJELER\C#\CSharpKursu\Generics\obj\Debug\Generics.exe
+D:\PROJELER\C#\CSharpKursu\Generics\obj\Debug\Generics.pdb

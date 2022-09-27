@@ -1,0 +1,12 @@
+D:\PROJELER\C#\yeni\Dev\Core\bin\Debug\Core.dll.config
+D:\PROJELER\C#\yeni\Dev\Core\bin\Debug\Core.dll
+D:\PROJELER\C#\yeni\Dev\Core\bin\Debug\Core.pdb
+D:\PROJELER\C#\yeni\Dev\Core\bin\Debug\EntityFramework.dll
+D:\PROJELER\C#\yeni\Dev\Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJELER\C#\yeni\Dev\Core\bin\Debug\EntityFramework.xml
+D:\PROJELER\C#\yeni\Dev\Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJELER\C#\yeni\Dev\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\PROJELER\C#\yeni\Dev\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\yeni\Dev\Core\obj\Debug\Core.csproj.CopyComplete
+D:\PROJELER\C#\yeni\Dev\Core\obj\Debug\Core.dll
+D:\PROJELER\C#\yeni\Dev\Core\obj\Debug\Core.pdb

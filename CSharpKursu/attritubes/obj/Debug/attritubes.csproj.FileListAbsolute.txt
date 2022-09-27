@@ -1,0 +1,8 @@
+D:\PROJELER\C#\CSharpKursu\attritubes\bin\Debug\attritubes.exe.config
+D:\PROJELER\C#\CSharpKursu\attritubes\bin\Debug\attritubes.exe
+D:\PROJELER\C#\CSharpKursu\attritubes\bin\Debug\attritubes.pdb
+D:\PROJELER\C#\CSharpKursu\attritubes\obj\Debug\attritubes.csproj.AssemblyReference.cache
+D:\PROJELER\C#\CSharpKursu\attritubes\obj\Debug\attritubes.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\attritubes\obj\Debug\attritubes.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\attritubes\obj\Debug\attritubes.exe
+D:\PROJELER\C#\CSharpKursu\attritubes\obj\Debug\attritubes.pdb

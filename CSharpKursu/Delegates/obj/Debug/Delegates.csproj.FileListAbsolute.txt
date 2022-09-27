@@ -1,0 +1,8 @@
+D:\PROJELER\C#\CSharpKursu\Delegates\bin\Debug\Delegates.exe.config
+D:\PROJELER\C#\CSharpKursu\Delegates\bin\Debug\Delegates.exe
+D:\PROJELER\C#\CSharpKursu\Delegates\bin\Debug\Delegates.pdb
+D:\PROJELER\C#\CSharpKursu\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+D:\PROJELER\C#\CSharpKursu\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\Delegates\obj\Debug\Delegates.exe
+D:\PROJELER\C#\CSharpKursu\Delegates\obj\Debug\Delegates.pdb

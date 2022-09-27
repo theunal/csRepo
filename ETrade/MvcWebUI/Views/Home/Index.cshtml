@@ -1,0 +1,51 @@
+﻿
+
+@using MvcWebUI.Models
+@model IEnumerable<ProductModel>
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+
+
+
+
+
+
+
+<div class="p-5 mb-4 bg-light">
+    <!-- jumbotron -->
+    <div class="container-fluid py-5">
+        <div class="container">
+            <h1 class="display-5 fw-bold">Hoş geldiniz</h1>
+            <p>
+                Bu web site çalışması .NET Framework ile Bootstrap 4 kullanılarak yapıldı.
+            </p>
+
+         
+        </div>
+    </div>
+</div>
+
+
+<div class="container pb-5">
+    <!-- ürünler -->
+    <div class="row row-cols-1 row-cols-md-4 g-4">
+
+
+        @Html.Partial("_ProductList", Model)
+
+
+
+
+    </div>
+</div>
+
+
+
+
+

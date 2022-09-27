@@ -1,0 +1,7 @@
+D:\PROJELER\C#\CSharpKursu\abstractClass\bin\Debug\abstractClass.exe.config
+D:\PROJELER\C#\CSharpKursu\abstractClass\bin\Debug\abstractClass.exe
+D:\PROJELER\C#\CSharpKursu\abstractClass\bin\Debug\abstractClass.pdb
+D:\PROJELER\C#\CSharpKursu\abstractClass\obj\Debug\abstractClass.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\abstractClass\obj\Debug\abstractClass.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\abstractClass\obj\Debug\abstractClass.exe
+D:\PROJELER\C#\CSharpKursu\abstractClass\obj\Debug\abstractClass.pdb

@@ -1,0 +1,8 @@
+D:\PROJELER\C#\CSharpKursu\yapi1\bin\Debug\yapi1.exe.config
+D:\PROJELER\C#\CSharpKursu\yapi1\bin\Debug\yapi1.exe
+D:\PROJELER\C#\CSharpKursu\yapi1\bin\Debug\yapi1.pdb
+D:\PROJELER\C#\CSharpKursu\yapi1\obj\Debug\yapi1.csproj.AssemblyReference.cache
+D:\PROJELER\C#\CSharpKursu\yapi1\obj\Debug\yapi1.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\yapi1\obj\Debug\yapi1.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\CSharpKursu\yapi1\obj\Debug\yapi1.exe
+D:\PROJELER\C#\CSharpKursu\yapi1\obj\Debug\yapi1.pdb

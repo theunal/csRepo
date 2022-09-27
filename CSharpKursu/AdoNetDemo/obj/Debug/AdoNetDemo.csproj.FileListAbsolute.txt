@@ -1,0 +1,6 @@
+D:\PROJELER\C#\CSharpKursu\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.AssemblyReference.cache
+D:\PROJELER\C#\CSharpKursu\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\C#\CSharpKursu\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+D:\PROJELER\C#\CSharpKursu\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+D:\PROJELER\C#\CSharpKursu\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+D:\PROJELER\C#\CSharpKursu\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache

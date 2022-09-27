@@ -1,0 +1,32 @@
+﻿@using MvcWebUI.Models
+@model IEnumerable<ProductModel>
+
+
+
+    @foreach (var urun in Model)
+    {
+        <div class="col mb-3">
+            <div class="card h-100">
+                <img src="~/ETicaret/img/@urun.image" class="card-img-top" alt="@urun.Name">
+                <div class="card-body">
+                    <h5 class="card-title">
+
+                        <a href="/Home/Details/@urun.Id">
+                            @urun.Name
+                        </a>
+
+                    </h5>
+                    <p class="card-text">@urun.Description</p>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">
+                        @urun.Price ₺
+                    </small>
+                    <a href="/Home/Details/@urun.Id" class="btn btn-primary btn-sm mx-3 float-right">
+                        <i class="fa-duotone fa-angles-right"></i>
+                        Ürünü incele
+                    </a>
+                </div>
+            </div>
+        </div>
+    }

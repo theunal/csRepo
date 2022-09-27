@@ -1,0 +1,17 @@
+D:\PROJELER\C#\yeni\Dev\DataAccess\bin\Debug\DataAccess.dll.config
+D:\PROJELER\C#\yeni\Dev\DataAccess\bin\Debug\DataAccess.dll
+D:\PROJELER\C#\yeni\Dev\DataAccess\bin\Debug\DataAccess.pdb
+D:\PROJELER\C#\yeni\Dev\DataAccess\bin\Debug\Core.dll
+D:\PROJELER\C#\yeni\Dev\DataAccess\bin\Debug\Entities.dll
+D:\PROJELER\C#\yeni\Dev\DataAccess\bin\Debug\EntityFramework.dll
+D:\PROJELER\C#\yeni\Dev\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJELER\C#\yeni\Dev\DataAccess\bin\Debug\Core.pdb
+D:\PROJELER\C#\yeni\Dev\DataAccess\bin\Debug\Core.dll.config
+D:\PROJELER\C#\yeni\Dev\DataAccess\bin\Debug\Entities.pdb
+D:\PROJELER\C#\yeni\Dev\DataAccess\bin\Debug\EntityFramework.xml
+D:\PROJELER\C#\yeni\Dev\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJELER\C#\yeni\Dev\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\PROJELER\C#\yeni\Dev\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\yeni\Dev\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\PROJELER\C#\yeni\Dev\DataAccess\obj\Debug\DataAccess.dll
+D:\PROJELER\C#\yeni\Dev\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,6 @@
+D:\PROJELER\C#\Projects\DevFramework2\DevFramework.Business\bin\Debug\DevFramework.Business.dll
+D:\PROJELER\C#\Projects\DevFramework2\DevFramework.Business\bin\Debug\DevFramework.Business.pdb
+D:\PROJELER\C#\Projects\DevFramework2\DevFramework.Business\obj\Debug\DevFramework.Business.csproj.AssemblyReference.cache
+D:\PROJELER\C#\Projects\DevFramework2\DevFramework.Business\obj\Debug\DevFramework.Business.csproj.CoreCompileInputs.cache
+D:\PROJELER\C#\Projects\DevFramework2\DevFramework.Business\obj\Debug\DevFramework.Business.dll
+D:\PROJELER\C#\Projects\DevFramework2\DevFramework.Business\obj\Debug\DevFramework.Business.pdb
